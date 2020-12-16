@@ -2,7 +2,7 @@ package com.contest.puzzle1;
 
 public class CoinGame {
 
-	public static Integer noCoins = 6;
+	public static Integer noCoins = 1100;
 
 	public static void main(String[] args) {
 		CoinGame game = new CoinGame();
